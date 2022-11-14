@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/week2-pdf-signature/static/css/main.073c9b0a.css",
+    "main.js": "/week2-pdf-signature/static/js/main.beea7ee2.js",
+    "static/js/787.82eb4f90.chunk.js": "/week2-pdf-signature/static/js/787.82eb4f90.chunk.js",
+    "static/media/logo.svg": "/week2-pdf-signature/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/week2-pdf-signature/index.html",
+    "main.073c9b0a.css.map": "/week2-pdf-signature/static/css/main.073c9b0a.css.map",
+    "main.beea7ee2.js.map": "/week2-pdf-signature/static/js/main.beea7ee2.js.map",
+    "787.82eb4f90.chunk.js.map": "/week2-pdf-signature/static/js/787.82eb4f90.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.beea7ee2.js"
+  ]
+}
